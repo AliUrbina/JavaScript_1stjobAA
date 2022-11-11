@@ -1,0 +1,36 @@
+button:hover {
+    cursor:  pointer; 
+}
+
+h1 {
+    color: azure ; 
+}
+
+.Bomnito {
+    height: 2000px ;
+    position: absolute;
+    display: none;
+    width: 100%;
+    background-color: rgb(183, 156, 242);
+    z-index: 1000;
+}
+
+#btn_si {
+    background-color: hotpink ;
+    border-color: hotpink;
+    color: white;
+    font-size: xx-large;
+    padding: 32px;
+    text-align: center;
+    border-radius: 2px;
+}
+
+#btn_no {
+    background-color: rgb(9, 6, 7) ;
+    border-color: rgb(8, 7, 8);
+    color: white;
+    font-size: small;
+    padding: 20px;
+    text-align: center;
+    
+}
